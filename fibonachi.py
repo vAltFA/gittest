@@ -1,4 +1,4 @@
-# Create a function fibonachi
+# Create a new function fibonachi
 def fibonachi(n):
     if n <= 1:
         return 1
